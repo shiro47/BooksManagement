@@ -1,0 +1,35 @@
+.book-card {
+  margin-bottom: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.book-card .card-img {
+  max-height: 200px;
+  object-fit: cover;
+}
+
+.book-card .book-details {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.book-card .book-title {
+  font-size: 1.2rem;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.book-card .book-footer {
+  background-color: #f8f9fa;
+}
+
+.animated-dropdown {
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.animated-dropdown.show {
+  opacity: 1;
+}
