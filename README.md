@@ -1,4 +1,4 @@
-# Project Name: Books Management
+# Books Management
 
 ## Description:
 The Books Management project is a Java-based application built with Spring Boot for managing a collection of books. It provides functionalities to add, delete, update, and retrieve information about books stored in a SQLite database.
@@ -10,9 +10,10 @@ The Books Management project is a Java-based application built with Spring Boot 
 - Search for books by various criteria, such as title, author, or genre
 
 ## Installation:
+
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/BooksManagement.git
+   git clone https://github.com/shiro47/BooksManagement.git
    ```
 2. Navigate to the backend directory:
    ```bash
@@ -51,7 +52,7 @@ The Books Management project is a Java-based application built with Spring Boot 
 
 
 ## License:
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/your-username/BooksManagement/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License.
 
 
 ## Acknowledgments:
